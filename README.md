@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Coder042
-- 👀 I’m an independent iOS app developer
-- 🌱 I have an iOS app on the App Store called DeltaWord and now working on a much bigger and more interesting project (to be announced...)
-- 💞️ I’m looking to collaborate on Swift
-- 📫 I can be reached by email at pilot.distant0o@icloud.com
+### Hi, I'm Anthony 👋
+
+Independent iOS/macOS developer, UK-based.
+
+- 🚁 Currently building **[HeliSense](https://helisense.app)** — an RC helicopter orientation trainer and flight simulator for iOS & macOS. Launching soon.
+- 📱 Previously shipped **DeltaWord**, a word puzzle game, on the App Store.
+- 🛠️ Background in network engineering before moving into iOS development.
+
+*Codebase is private — see [helisense.app](https://helisense.app) for more.*
 
 <!---
 Coder042/Coder042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
